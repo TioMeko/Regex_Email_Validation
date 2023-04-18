@@ -18,7 +18,7 @@ The regular expression we will be discussing is `/^[^\s@]+@[^\s@]+\.[^\s@]+$/`. 
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
-
+ 
 ### Anchors
 
 ### Quantifiers
