@@ -143,6 +143,6 @@ In our regex,`^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$`, we se
 
 This tutorial written by Michael Arasimowicz 💻
 
-Github: @TioMeko
+Github: [TioMeko](https://github.com/TioMeko)
 
 Email: marasimowicz@ymail.com
